@@ -12,11 +12,13 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  margin: 0;
+  margin: 10px;
 }
 
 canvas {
   border: 2px solid rgb(48, 48, 48);
+  width: 800px;
+  height: 800px;
 }
 
 .toolbox {
